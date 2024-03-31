@@ -1,7 +1,3 @@
-spring:
-    application:
-        name: FOR-TESTING
-
 eureka:
     instance:
         prefer-ip-address: true
